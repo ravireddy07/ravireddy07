@@ -1,6 +1,4 @@
-<!-- @format -->
-
-<h1 align="center">Hi, Nice to seeing you here!</h1> <img src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/res/wave.gif" width="30px">
+<h1 align="center">Hi, Nice to seeing you here! <img src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/res/wave.gif" width="30px"></h1>
 
 <h4 align="center">I'm Ravi Kanth, friends and people call me <i>Ravi</i>, <i>Harry</i>. Graduated in Computer Science(2020) from <a href="https://www.lpu.in" target="blank">LPU</a>. I'm a tech enthusiast, open-source lover & Passionate Programmer. I have a passion for learning, explore as much as possible and sharing my knowledge with others as publicly as possible. Find out more about me & feel free to connect with me here: </h4>
 
@@ -41,8 +39,10 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravireddy07&layout=compact&hide=html" alt="ravireddy07" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravireddy07&show_icons=true" alt="ravireddy07" /></p>
+<p><img align="left" width="500" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravireddy07&layout=compact&hide=html" alt="ravireddy07" /></p>
+<p>&nbsp;<img align="right"  width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=ravireddy07&show_icons=true" alt="ravireddy07" /></p>
+
+<br/>
 
 ## Support 🙏
 
