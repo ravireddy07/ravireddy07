@@ -39,8 +39,8 @@
 
 <br/>
 
-<p><img align="left" width="450" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravireddy07&layout=compact&hide=html" alt="ravireddy07" /></p>
-<p>&nbsp;<img align="right"  width="450" height="300" src="https://github-readme-stats.vercel.app/api?username=ravireddy07&show_icons=true" alt="ravireddy07" /></p>
+<p><img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravireddy07&layout=compact&hide=html" alt="ravireddy07" /></p>
+<p>&nbsp;<img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=ravireddy07&show_icons=true" alt="ravireddy07" /></p>
 
 <br/>
 
