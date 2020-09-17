@@ -1,4 +1,10 @@
-<h1 align="center">Hi, Nice to seeing you here! <img src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/res/wave.gif" width="30px"></h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>&nbsp; Hi, Nice to seeing you here! <img src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/res/wave.gif" width="30px"></h1>
+
+<br/>
+
+<p align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" height="60"></p>
+
+<br/>
 
 <h4 align="center">I'm Ravi Kanth, friends and people call me <i>Ravi</i>, <i>Harry</i>. Graduated in Computer Science(2020) from <a href="https://www.lpu.in" target="blank">LPU</a>. I'm a tech enthusiast, open-source lover & Passionate Programmer. I have a passion for learning, explore as much as possible and sharing my knowledge with others as publicly as possible. Find out more about me & feel free to connect with me here: </h4>
 
@@ -15,21 +21,21 @@
 
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravireddy07" alt="ravireddy07" />
-<img src="https://img.shields.io/twitter/follow/ravi_reddy_07?color=1DA1F2&logo=twitter&style=flat-square" alt="ravi_reddy_07" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravireddy07" alt="ravireddy07" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/twitter/follow/ravi_reddy_07?color=1DA1F2&logo=twitter&style=flat-square" alt="ravi_reddy_07" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/ravireddy07?color=1DA1F2&logo=github&style=flat-square" alt="ravireddy07" /> </p>
 
 <br/>
 
 - 🔭 I’m currently working on [Programming](https://github.com/ravireddy07/cpp-book)
 
-- 🌱 I’m currently trying to master **Data Structures & Algorithms**
+- 🌱 I’m currently trying to improve/master in **Data Structures & Algorithms**
 
 - 🎯 2020 Goals: Find a better full-time role than present one 😇 & Explore new things.
 
-- 👨‍💻 All of my projects are available at [ravireddy07.github.io](ravireddy07.github.io)
+- 👨‍💻 All of my projects are available at [Lazy Enough](ravireddy07.github.io) **Under Construction**
 
-- 📫 I'm available at **ravikanthreddy8500@gmail.com**
+- 📫 Can ping me at anytime through any of your possible way ([Contact Me](https://linktr.ee/ravireddy07)).
 
 - ⚡ Fun fact **I love Food, Code & Games.**
 
@@ -40,13 +46,13 @@
 <br/>
 
 <p><img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravireddy07&layout=compact&hide=html" alt="ravireddy07" /></p>
-<p>&nbsp;<img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=ravireddy07&show_icons=true" alt="ravireddy07" /></p>
+<p>&nbsp;<img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=ravireddy07&show_icons=true&theme=dark" alt="ravireddy07" /></p>
 
 <br/>
 
-## Support 🙏
+<p align="center"> <b>Support 🙏</b></p>
 
-<p align="left">
+<p align="center">
 <a href="https://www.paypal.me/ravireddy07"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/> </a>&nbsp;&nbsp;
 <a href='https://ko-fi.com/ravireddy07' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for Ravi Kanth' /></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/ravireddy07" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" /> </a>
@@ -54,5 +60,5 @@
 
 <hr>
 <p align="center">
-Developed with ❤️ in India 🇮🇳 
+Developed with ❤️ in <b>Dark</b> 🇮🇳 <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="15" height="15"/>
 </p>
