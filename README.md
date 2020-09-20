@@ -21,8 +21,8 @@
 
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravireddy07" alt="ravireddy07" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/twitter/follow/ravi_reddy_07?color=1DA1F2&logo=twitter&style=flat-square" alt="ravi_reddy_07" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravireddy07" alt="ravireddy07" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/twitter/follow/ravi_reddy_07?color=1DA1F2&logo=twitter&style=flat-square" alt="ravi_reddy_07" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/ravireddy07?color=1DA1F2&logo=github&style=flat-square" alt="ravireddy07" /> </p>
 
 <br/>
@@ -33,7 +33,7 @@
 
 - 🎯 2020 Goals: Find a better full-time role than present one 😇 & Explore new things.
 
-- 👨‍💻 All of my projects are available at [Lazy Enough](ravireddy07.github.io) **Under Construction**
+- 👨‍💻 All of my projects are available at [Lazy Enough](ravireddy07.github.io) **[Under Construction]**
 
 - 📫 Can ping me at anytime through any of your possible way ([Contact Me](https://linktr.ee/ravireddy07)).
 
@@ -46,7 +46,7 @@
 <br/>
 
 <p><img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravireddy07&layout=compact&hide=html" alt="ravireddy07" /></p>
-<p>&nbsp;<img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=ravireddy07&show_icons=true&theme=dark" alt="ravireddy07" /></p>
+<p>&nbsp;<img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=ravireddy07&show_icons=true&theme=merko" alt="ravireddy07" /></p>
 
 <br/>
 
@@ -60,5 +60,5 @@
 
 <hr>
 <p align="center">
-Developed with ❤️ in <b>Dark</b> 🇮🇳 <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="15" height="15"/>
+<b>Developed with ❤️ in <b>Dark</b> 🇮🇳 </b><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="15" height="15"/>
 </p>
