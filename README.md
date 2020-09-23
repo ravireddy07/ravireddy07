@@ -60,5 +60,5 @@
 
 <hr>
 <p align="center">
-<b>Developed with ❤️ in <b>Dark</b> 🇮🇳 </b><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="15" height="15"/>
+<b>Developed with ❤️ & for 💩 🇮🇳 </b><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="15" height="15"/>
 </p>
