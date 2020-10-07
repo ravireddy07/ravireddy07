@@ -21,10 +21,9 @@
 
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravireddy07" alt="ravireddy07" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/twitter/follow/ravi_reddy_07?color=1DA1F2&logo=twitter&style=flat-square" alt="ravi_reddy_07" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravireddy07" alt="ravireddy07" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/twitter/follow/ravi_reddy_07?color=1DA1F2&logo=twitter&style=flat-square" alt="ravi_reddy_07" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/ravireddy07?color=1DA1F2&logo=github&style=flat-square" alt="ravireddy07" /> </p>
-
 <br/>
 
 - 🔭 I’m currently working on [Programming](https://github.com/ravireddy07/cpp-book)
