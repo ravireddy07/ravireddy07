@@ -6,17 +6,17 @@
 
 <br/>
 
-<h4 align="center">I'm Ravi Kanth, friends and people call me <i>Ravi</i>, <i>Harry</i>. Graduated in Computer Science(2020) from <a href="https://www.lpu.in" target="blank">LPU</a>. I'm a tech enthusiast, open-source lover & Passionate Programmer. I have a passion for learning, explore as much as possible and sharing my knowledge with others as publicly as possible. Find out more about me & feel free to connect with me here: </h4>
+<h4 align="center">I'm Ravi Kanth, friends and people call me <i>Ravi</i>, <i>Harry</i>. Graduated in Computer Science(2020) from <abbr title="Lovely Professional University">LPU</abbr>. I'm a tech enthusiast, open-source lover & Passionate Programmer. I have a passion for learning, explore as much as possible and sharing my knowledge with others as publicly as possible. Find out more about me & feel free to connect with me here: </h4>
 
 <br/>
 
 <p align="center">
-<a href="https://twitter.com/ravi_reddy_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ravi_reddy_07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/ravireddy07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://fb.com/ravireddy07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/ravi_reddy_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/ravireddy115" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ravireddy115" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/ravireddy07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/ravi_reddy_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ravi_reddy_07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/ravireddy07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/ravi_reddy_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/ravireddy115" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ravireddy115" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/ravireddy07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.leetcode.com/ravireddy07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br/>
