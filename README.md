@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/github/followers/ravireddy07?color=1DA1F2&logo=github&style=flat-square" alt="ravireddy07" /> </p>
 <br/>
 
-- 🔭 I’m currently working on [Programming](https://github.com/ravireddy07/cpp-book)
+- 🔭 I’m currently working on [Competative Programming](https://github.com/ravireddy07/cpp-book)
 
 - 🌱 I’m currently trying to improve/master in **Data Structures & Algorithms**
 
