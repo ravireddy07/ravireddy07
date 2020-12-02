@@ -36,7 +36,7 @@
 
 - 📫 Can ping me at anytime through any of your possible way ([Contact Me](https://linktr.ee/ravireddy07)).
 
-- ⚡ Fun fact **I love Food, Code & Games.**
+- ⚡ Fun fact: **I Enjoy Food, Coding & Games.**
 
   <br/>
 
