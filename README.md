@@ -30,13 +30,13 @@
 
 - 🌱 I’m currently trying to improve/master in **Data Structures & Algorithms**
 
-- 🎯 2020 Goals: Find a better full-time role than present one 😇 & Explore new things.
+- 🎯 2021 Goals: Find a better full-time role than present one 😇 & *Explore*.
 
 - 👨‍💻 All of my projects are available at [Lazy Enough](ravireddy07.github.io) **[Under Construction]**
 
-- 📫 Can ping me at anytime through any of your possible way ([Contact Me](https://linktr.ee/ravireddy07)).
+- 📫 Can [ping me](https://linktr.ee/ravireddy07) at anytime of your choice.
 
-- ⚡ Fun fact: **I Enjoy Food, Coding & Games.**
+- ⚡ Hobbies: **I Like Food, Coding & Games.**
 
   <br/>
 
