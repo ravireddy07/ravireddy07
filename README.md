@@ -36,6 +36,8 @@
 
 - 📫 Can [ping me](https://linktr.ee/ravireddy07) at anytime of your choice.
 
+- 👨‍💻 You can find my resume [here](res/resume.pdf). 
+
 - ⚡ Hobbies: **I Like Food, Coding & Games.**
 
   <br/>
