@@ -35,7 +35,7 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 
 - 📫 Can [ping me](https://linktr.ee/ravireddy07) at anytime of your choice.
 
-- 👨‍💻 You can find my resume [here](res/resume.pdf). 
+- 👨‍💻 You can find my resume here [resume-1](https://drive.google.com/file/d/1eKRoFerfYitExxgSA7NoxTx99RBug_k9/view?usp=sharing) [resume-2](https://drive.google.com/file/d/175DFyJ0zaAQ-tahsHaJcqiJzST_F4Tsy/view?usp=sharing). 
 
 - ⚡ Hobbies: **I Like Food, Coding & Games.**
 
