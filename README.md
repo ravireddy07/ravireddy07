@@ -1,10 +1,10 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>&nbsp; Hi, Nice to seeing you here! <img src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/res/wave.gif" width="30px"></h1>
+<marquee scrolldelay="100" behavior="alternate"> <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>&nbsp; Hi, Nice to seeing you here! <img src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/res/wave.gif" width="30px"></h1></marquee>
 
 <br/>
 
 <p align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" height="60"></p>
 
-<h4 align="center">Hey, I'm Ravi Kanth, a graduate from <abbr title="Lovely Professional University">LPU</abbr> in <abbr title="Computer Science">CS</abbr>.
+<h4 align="center">Hey, I'm Ravi Kanth, a graduate from <abbr title="Lovely Professional University">LPU</abbr> in <abbr title="Computer Science Engineering">CSE</abbr>.
 I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other languages also like C, Python , R & Java script. I've academic experience in Tableau & SPSS. Currently, I'm focusing on Competitive Programming and contributing Open Source. I've <em>4* (1868)</em> on <a href="https://www.codechef.com/users/ravireddy115/" target="blank">CodeChef</a>, <em>3* Stars</em> on <a href="https://leetcode.com/ravireddy07/" target="blank">Leetcode</a> and <em>936 Rating</em> on <a href="https://codeforces.com/profile/ravireddy07" target="blank">CodeForces</a>. Being an active open source contributor, I've contributed to 3 projects through GSSOC-2020 opensource program and exploring more. I've successfully completed 3 Udacity Nanodegree Scholarship programs namely Front-End Web Developer Nanodegree, Deep Learning Nanodegree, Deep Reinforcement Learning Nanodegree and have done respective projects also. Find out more about me & feel free to connect with me here: </h4>
 
 <br/>
@@ -39,7 +39,19 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 
   <br/>
 
-<p align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></p>
+<p align="center">
+<abbr title="Azure"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;
+<abbr title="Bash"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;
+<abbr title="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;
+<abbr title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;
+<abbr title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;
+<abbr title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;
+<abbr title="Javascript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;
+<abbr title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;
+<abbr title="Selenium"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;
+<abbr title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;
+<abbr title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;
+</p>
 
 <br/>
 
