@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" height="60"></p>
 
 <h4 align="center">Hey, I'm Ravi Kanth, a graduate from <abbr title="Lovely Professional University">LPU</abbr> in <abbr title="Computer Science Engineering">CSE</abbr>.
-I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other languages also like C, Python , R & Java script. I've academic experience in Tableau & SPSS. Currently, I'm focusing on Competitive Programming and contributing Open Source. I've <em>4* (1868)</em> on <a href="https://www.codechef.com/users/ravireddy115/" target="blank">CodeChef</a>, <em>3* Stars</em> on <a href="https://leetcode.com/ravireddy07/" target="blank">Leetcode</a> and <em>1057 Rating</em> on <a href="https://codeforces.com/profile/ravireddy07" target="blank">CodeForces</a>. Being an active open source contributor, I've contributed to 3 projects through GSSOC-2020 opensource program and exploring more. I've successfully completed 3 Udacity Nanodegree Scholarship programs namely Front-End Web Developer Nanodegree, Deep Learning Nanodegree, Deep Reinforcement Learning Nanodegree and have done respective projects also. Find out more about me & feel free to connect with me here: </h4>
+I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other languages also well like C, Python, R & JavaScript. I've academic experience in Tableau & SPSS. Currently, I'm focusing on Competitive Programming and contributing Open Source. I've <em>4* (1973)</em> on <a href="https://www.codechef.com/users/ravireddy115/" target="blank">CodeChef</a>, <em>3* Stars</em> on <a href="https://leetcode.com/ravireddy07/" target="blank">Leetcode</a> and <em>1057 Rating</em> on <a href="https://codeforces.com/profile/ravireddy07" target="blank">CodeForces</a>. Being an active open source contributor, I've contributed to 3 projects through GSSOC-2020 opensource program and exploring more. I've successfully completed 3 Udacity Nanodegree Scholarship programs namely Front-End Web Developer Nanodegree, Deep Learning Nanodegree, Deep Reinforcement Learning Nanodegree and have done respective projects also. Find out more about me & feel free to connect with me here: </h4>
 
 <br/>
 
@@ -33,7 +33,7 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 
 - 🎯 2021 Goals: get hands on AWS, be wise 😇 & *Explore*.
 
-- 🏳 All of my projects are available at [Lazy Enough](ravireddy07.github.io) **[Under Construction]**
+- 🏳 All of my projects are available at Portfolio([Lazy Enough](ravireddy07.github.io)) **[Under Construction]**
 
 - 📫 Feel free to [Contact me](https://linktr.ee/ravireddy07) through your favorite mode.
 
