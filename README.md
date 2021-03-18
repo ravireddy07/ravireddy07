@@ -26,11 +26,9 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 <img src="https://img.shields.io/github/followers/ravireddy07?color=1DA1F2&logo=github&style=flat-square" alt="ravireddy07" /> </p>
 <br/>
 
-- 🔭 Currently focusing on [Competative Programming](https://github.com/ravireddy07/cpp-book).
-
-- 🌱 I’m currently trying to improve/master in **Data Structures & Algorithms**
-
-- 📌 Contributing to Open Source along with current full-time role.
+- 🔭 Currently focusing on [Competative Programming](https://github.com/ravireddy07/cpp-book) and **Data Structures & Algorithms**.
+<!--- 🌱 I’m currently trying to improve/master in -->
+- 📌 Contributing to Open Source along with current Full-time role.
 
 - 🎯 2021 Goals: get hands on AWS, be wise 😇 & *Explore*.
 
