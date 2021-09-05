@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>&nbsp; Hi, Nice to seeing you here! <img src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/res/wave.gif" width="30px"></h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>&nbsp; Hi, Nice to seeing you here! <img src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/wave.gif" width="30px"></h1>
 
 <br/>
 
@@ -10,7 +10,12 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 <br/>
 
 <p align="center">
-<a href="https://twitter.com/ravi_reddy_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ravi_reddy_07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/uXY676UzZt" target="blank">
+  <img align="center" alt="Ravi's Discord" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/discord-round.svg"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/ravi_reddy_07" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/twitter.svg" height="30" width="30"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/ravireddy07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/ravi_reddy_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/ravireddy115" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ravireddy115" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,19 +31,19 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 <img src="https://img.shields.io/github/followers/ravireddy07?color=1DA1F2&logo=github&style=flat-square" alt="ravireddy07" /> </p>
 <br/>
 
-- 🔭 Currently focusing on [Competitive Programming](https://github.com/ravireddy07/cpp-book) and **Data Structures & Algorithms**.
+-   🔭 Currently focusing on [Competitive Programming](https://github.com/ravireddy07/cpp-book) and **Data Structures & Algorithms**.
 <!--- 🌱 I’m currently trying to improve/master in -->
-- 📌 Contributing to Open Source along with current Full-time role.
+-   📌 Contributing to Open Source along with current Full-time role.
 
-- 🎯 2021 Goals: get hands on AWS, be wise 😇 & *Explore*.
+-   🎯 2021 Goals: get hands on Cloud, be wise 😇 & _Explore_.
 
-- 🏳 All of my projects are available at Portfolio([Lazy Enough](ravireddy07.github.io)) **[Under Construction]**
+-   🏳 All of my projects are available at Portfolio([Lazy Enough](ravireddy07.github.io)) **[In-Progress]**
 
-- 📫 Feel free to [Contact me](https://linktr.ee/ravireddy07) through your favorite mode.
+-   📫 Feel free to [Contact me](https://linktr.ee/ravireddy07) through your favorite mode.
 
-- 🎮 Hobbies: **I Like Food, Coding & Games.**
+-   🎮 Hobbies: **I Like Food, Coding & Games.**
 
-  <br/>
+    <br/>
 
 <p align="center">
 <abbr title="Azure"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,6 +56,7 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 <abbr title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <abbr title="Selenium"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <abbr title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <!-- <abbr title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp; -->
 </p>
 
@@ -62,6 +68,7 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 
 <br/>
 -->
+
 <br><br><br>
 
 <table><tr><th><h1 align="center">STATISTICS
@@ -69,6 +76,7 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 <h1 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravireddy07&layout=compact&hide=html" alt="ravireddy07" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravireddy07&show_icons=true" alt="ravireddy07" /></h1></th></tr></table>
 
 <br><br><br>
+
 <p align="center"> <b>Support 🙏</b></p>
 
 <p align="center">
@@ -79,5 +87,5 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 
 <hr>
 <p align="center">
-<b>Developed with ❤️ & for 💩 🇮🇳 </b><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="15" height="15"/>
+<b>Developed with ❤️ </b><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="15" height="15"/>
 </p>
