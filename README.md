@@ -14,13 +14,20 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
   <img align="center" alt="Ravi's Discord" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/discord-round.svg"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/ravi_reddy_07" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/twitter.svg" height="30" width="30"/> 
+  <img align="center" alt="ravi_reddy_07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/twitter.svg"/> 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/ravireddy07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/ravi_reddy_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/ravireddy115" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ravireddy115" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/ravireddy07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/ravireddy07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/ravireddy07" target="blank">
+  <img align="center" alt="ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/linkedin.svg"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/ravireddy115" target="blank">
+  <img align="center" alt="ravireddy115" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/codechef.svg"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/ravireddy07" target="blank">
+  <img align="center" alt="ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/codeforces.svg"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.leetcode.com/ravireddy07" target="blank">
+  <img align="center" alt="ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/leetcode.svg"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br/>
@@ -57,7 +64,6 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 <abbr title="Selenium"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <abbr title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- <abbr title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp; -->
 </p>
 
 <!--
@@ -81,11 +87,15 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 
 <p align="center">
 <a href="https://www.paypal.me/ravireddy07"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='https://ko-fi.com/ravireddy07' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for Ravi Kanth' /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/ravireddy07" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" /> </a>
+<a href='https://ko-fi.com/ravireddy07' target='_blank'>
+  <img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for Ravi Kanth'/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/ravireddy07" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px"/>
+</a>
 </p>
 
 <hr>
 <p align="center">
-<b>Developed with ❤️ </b><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="15" height="15"/>
+  <b>Developed with ❤️ </b><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30px"/>
 </p>
