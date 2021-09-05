@@ -20,22 +20,24 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
   <img align="center" alt="ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/linkedin.svg"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/ravireddy115" target="blank">
-  <img align="center" alt="ravireddy115" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/codechef.svg"/>
+  <img align="center" alt="ravireddy115" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/ravireddy07" target="blank">
-  <img align="center" alt="ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/codeforces.svg"/>
+  <img align="center" alt="ravireddy07" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.leetcode.com/ravireddy07" target="blank">
-  <img align="center" alt="ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/leetcode.svg"/>
+  <img align="center" alt="ravireddy07" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravireddy07" alt="ravireddy07" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img src="https://img.shields.io/twitter/follow/ravi_reddy_07?color=1DA1F2&logo=twitter&style=flat-square" alt="ravi_reddy_07" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-<img src="https://img.shields.io/github/stars/ravireddy07?style=flat-square" alt="ravireddy07"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/ravireddy07?color=1DA1F2&logo=github&style=flat-square" alt="ravireddy07" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ravireddy07" alt="ravireddy07" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/ravireddy07?style=flat-square" alt="ravireddy07"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/ravireddy07?color=1DA1F2&logo=github&style=flat-square" alt="ravireddy07"/>
+</p>
+
 <br/>
 
 -   🔭 Currently focusing on [Competitive Programming](https://github.com/ravireddy07/cpp-book) and **Data Structures & Algorithms**.
@@ -53,17 +55,33 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
     <br/>
 
 <p align="center">
-<abbr title="Azure"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <abbr title="Bash"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp; -->
-<abbr title="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<abbr title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<abbr title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<abbr title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<abbr title="Javascript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<abbr title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<abbr title="Selenium"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<abbr title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+  <abbr title="Azure">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <abbr title="C">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <abbr title="C++">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <abbr title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <abbr title="Java">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <abbr title="Javascript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <abbr title="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <abbr title="Selenium">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+  </abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <abbr title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!--
@@ -77,22 +95,35 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 
 <br><br><br>
 
-<table><tr><th><h1 align="center">STATISTICS
-<h1 align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ravireddy07&" alt="Streak"  width="400px" height="190px" /></h1>
-<h1 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravireddy07&layout=compact&hide=html" alt="ravireddy07" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravireddy07&show_icons=true" alt="ravireddy07" /></h1></th></tr></table>
+<table>
+  <tr>
+    <th>
+      <h1 align="center">STATISTICS
+      <h1 align="center">
+        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ravireddy07&" alt="Streak"  width="400px" height="190px" />
+      </h1>
+      <h1 align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravireddy07&layout=compact&hide=html" alt="ravireddy07"/>&nbsp;
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravireddy07&show_icons=true" alt="ravireddy07"/>
+      </h1>
+    </th>
+  </tr>
+</table>
 
 <br><br><br>
 
 <p align="center"> <b>Support 🙏</b></p>
 
 <p align="center">
-<a href="https://www.paypal.me/ravireddy07"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='https://ko-fi.com/ravireddy07' target='_blank'>
-  <img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for Ravi Kanth'/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/ravireddy07" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px"/>
-</a>
+  <a href="https://www.paypal.me/ravireddy07">
+    <img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://ko-fi.com/ravireddy07' target='_blank'>
+    <img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for Ravi Kanth'/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/ravireddy07" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px"/>
+  </a>
 </p>
 
 <hr>
