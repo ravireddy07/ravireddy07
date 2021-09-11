@@ -31,6 +31,18 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 </p>
 
 <br/>
+<br/>
+
+<p align="center">
+
+-   📌 Interested in Open Source contribution's and Competitive Programming.
+
+-   🔭 Currently Learning Azure.
+
+-   📫 Reach me via **ravikanthreddy8500@gmail.com**
+</p>
+
+<br/>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ravireddy07" alt="ravireddy07" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,20 +51,11 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 </p>
 
 <br/>
+<br/>
 
--   🔭 Currently focusing on [Competitive Programming](https://github.com/ravireddy07/cpp-book) and **Data Structures & Algorithms**.
-<!--- 🌱 I’m currently trying to improve/master in -->
--   📌 Contributing to Open Source along with current Full-time role.
+<h2><b>🛠 Languages and Tools I use </b></h2>
 
--   🎯 2021 Goals: get hands on Cloud, be wise 😇 & _Explore_.
-
--   🏳 All of my projects are available at Portfolio([Lazy Enough](ravireddy07.github.io)) **[In-Progress]**
-
--   📫 Feel free to [Contact me](https://linktr.ee/ravireddy07) through your favorite mode.
-
--   🎮 Hobbies: **I Like Food, Coding & Games.**
-
-    <br/>
+<br/>
 
 <p align="center">
   <abbr title="Azure">
