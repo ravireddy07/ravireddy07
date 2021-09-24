@@ -20,16 +20,17 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
   <img align="center" alt="ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/linkedin.svg"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/ravireddy115" target="blank">
-  <img align="center" alt="ravireddy115" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"/>
+  <img align="center" alt="ravireddy115" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/codechef2.svg"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/ravireddy07" target="blank">
-  <img align="center" alt="ravireddy07" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg"/>
+  <img align="center" alt="ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/codeforces2.svg"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.leetcode.com/ravireddy07" target="blank">
-  <img align="center" alt="ravireddy07" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg"/>
+  <img align="center" alt="ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/leetcode2.svg"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<!--https://simpleicons.org/?q=codechef-->
 <br/>
 <br/>
 
