@@ -4,30 +4,27 @@
 
 <p align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" height="60"></p>
 
-<h4 align="center">Hey, I'm Ravi Kanth, a graduate from <abbr title="Lovely Professional University">LPU</abbr> in <abbr title="Computer Science Engineering">CSE</abbr>.
-I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other languages as well like C, Python, R & JavaScript. I've academic experience in Tableau & SPSS. Currently, I'm focusing on Competitive Programming and contributing Open Source. I've <em>4* (1973)</em> on <a href="https://www.codechef.com/users/ravireddy115/" target="blank">CodeChef</a>, <em>3* Stars</em> on <a href="https://leetcode.com/ravireddy07/" target="blank">Leetcode</a> and <em>1057 Rating</em> on <a href="https://codeforces.com/profile/ravireddy07" target="blank">CodeForces</a>. Being an active open source contributor, I've contributed to 3 projects through GSSOC-2020 opensource program and exploring more. I've successfully completed 3 Udacity Nanodegree Scholarship programs namely Front-End Web Developer Nanodegree, Deep Learning Nanodegree, Deep Reinforcement Learning Nanodegree and have done respective projects also. Find out more about me & feel free to connect with me here: </h4>
+<h4 align="center">Hey, I'm Ravi Kanth, a graduate in <abbr title="Computer Science Engineering">CSE</abbr>.
+I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other languages as well like JavaScript, Python, C and R. I've academic experience in Tableau & SPSS(Data Science). Currently, I'm focusing on Competitive Programming and contributing to Open Source. I've successfully completed 3 Udacity Nanodegree Scholarship programs namely Front-End Web Developer Nanodegree, Deep Learning Nanodegree, Deep Reinforcement Learning Nanodegree and have done respective projects also. Feel free to connect with me here: </h4>
 
 <br/>
 
 <p align="center">
-<a href="https://discord.gg/uXY676UzZt" target="blank">
-  <img align="center" alt="Ravi's Discord" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/discord-round.svg"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/ravi_reddy_07" target="blank">
-  <img align="center" alt="ravi_reddy_07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/twitter.svg"/> 
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/ravireddy07" target="blank">
-  <img align="center" alt="ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/linkedin.svg"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/ravireddy115" target="blank">
-  <img align="center" alt="ravireddy115" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/codechef2.svg"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/ravireddy07" target="blank">
-  <img align="center" alt="ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/codeforces2.svg"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/ravireddy07" target="blank">
-  <img align="center" alt="ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/leetcode2.svg"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:micepram@gmail.com" target="blank">
+    <img align="center" alt="Ravi's Email" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/gmail.svg"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/uXY676UzZt" target="blank">
+    <img align="center" alt="Ravi's Discord" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/discord-round.svg"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/ravi_reddy_07" target="blank">
+    <img align="center" alt="ravi_reddy_07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/twitter.svg"/> 
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ravireddy07" target="blank">
+    <img align="center" alt="ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/linkedin.svg"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@ravi_reddy_07" target="blank">
+    <img align="center" alt="@ravi_reddy_07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/medium.png"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!--https://simpleicons.org/?q=codechef-->
@@ -36,7 +33,7 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 
 <p align="center">
 
--   📌 Interested in Open Source contribution's and Competitive Programming.
+-   📌 Open Source and Competitive Programming.
 
 -   🔭 Currently Learning Azure.
 
@@ -48,7 +45,11 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ravireddy07" alt="ravireddy07" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/ravireddy07?style=flat-square" alt="ravireddy07"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/ravireddy07?color=1DA1F2&logo=github&style=flat-square" alt="ravireddy07"/>
+  <img src="https://img.shields.io/github/followers/ravireddy07?color=1DA1F2&logo=github&style=flat-square" alt="ravireddy07"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cp-logo.vercel.app/codeforces/ravireddy07?logo=true" alt="ravireddy07"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cp-logo.vercel.app/codechef/ravireddy115?logo=true" alt="ravireddy115">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!--<img src="https://cp-logo.vercel.app/leetcode/ravireddy07?logo=true" alt="ravireddy07">-->
+  <!--[![Badge](https://cp-logo.vercel.app/codechef/ravireddy115)](https://www.codechef.com/users/ravireddy115) -->
 </p>
 
 <br/>
@@ -116,6 +117,7 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 
 <br><br><br>
 
+<hr>
 <p align="center"> <b>Support 🙏</b></p>
 
 <p align="center">
