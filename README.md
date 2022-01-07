@@ -8,9 +8,11 @@
 </p>
 
 <br/>
-<h4 align="center">Hey, I'm Ravi Kanth, a Graduate in CSE.</h4><br/>
+<h2 align="center"> <img src="https://awesome.re/badge.svg"/></h2>
+<h4 align="center">Hey, I'm Ravi Kanth, a Graduate in CSE.</h4>
 <h4 align="center">I'm an inquisitive thinker, Curious learner and Meme guy 🙋.</h4>
-<h4 align="center">Being an indian, getting into multiple tech-stacks is a childplay. Open Source, Competitive Programming, Communities and Gaming are always fun <img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="17px"/></h4> 
+<h4 align="center">Being an indian, getting into multiple tech-stacks is a childplay.</h4>
+<h4 align="center">Open Source, Competitive Programming, Communities and Gaming are always fun <img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="17px"/></h4> 
 <h4 align="center">Feel free to checkout the Repo's and connect with me on <a href="https://www.linkedin.com/in/ravireddy07/">LinkedIn</a> 👇 </h4>
 
 <br/>
@@ -36,15 +38,15 @@
 <!--https://simpleicons.org/?q=codechef-->
 <br/>
 
-###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 <p align="center">
 
--   📌  Open Source and Competitive Programming.
+-   📌 Open Source and Competitive Programming.
 
 -   🔭 Learning Azure and some Automation.
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1573850349/7131/pog.png?1573850349" width="17px"/> Ping me, Lets play some game in free time.
+-   <img src="https://emojis.slackmojis.com/emojis/images/1573850349/7131/pog.png?1573850349" width="17px"/> Ping me, Lets play some game in free time.
 
 </p>
 
@@ -125,7 +127,7 @@
 
 <br><br><br>
 
-- - - -
+---
 
 <p align="center"> <b>Support 🙏</b></p>
 
@@ -141,7 +143,8 @@
   </a>
 </p>
 
-- - - - 
+---
+
 <p align="center">
   <b>Developed with ❤️ </b><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30px"/>
 </p>
