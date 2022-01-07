@@ -7,9 +7,11 @@
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="80" height="90">
 </p>
 
-
-<h4 align="center">Hey, I'm Ravi Kanth, a graduate in <abbr title="Computer Science Engineering">CSE</abbr>.
-I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other languages as well like JavaScript, Python, C and R. I've academic experience in Tableau & SPSS(Data Science). Currently, I'm focusing on Competitive Programming and contributing to Open Source. I've successfully completed 3 Udacity Nanodegree Scholarship programs namely Front-End Web Developer Nanodegree, Deep Learning Nanodegree, Deep Reinforcement Learning Nanodegree and have done respective projects also. Feel free to connect with me here: </h4>
+<br/>
+<h4 align="center">Hey, I'm Ravi Kanth, a Graduate in CSE.</h4><br/>
+<h4 align="center">I'm an inquisitive thinker, Curious learner and Meme guy 🙋.</h4>
+<h4 align="center">Being an indian, getting into multiple tech-stacks is a childplay. Open Source, Competitive Programming, Communities and Gaming are always fun <img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="17px"/></h4> 
+<h4 align="center">Feel free to checkout the Repo's and connect with me on <a href="https://www.linkedin.com/in/ravireddy07/">LinkedIn</a> 👇 </h4>
 
 <br/>
 
@@ -34,15 +36,16 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 <!--https://simpleicons.org/?q=codechef-->
 <br/>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 <p align="center">
 
--   📌 Open Source and Competitive Programming.
+-   📌  Open Source and Competitive Programming.
 
--   🔭 Currently Learning Azure.
+-   🔭 Learning Azure and some Automation.
 
--   💼 SAE at <a href="https://www.linkedin.com/company/american-technology-consulting/mycompany/"><abbr title="American Technology Consulting">ATC</abbr></a>.
+- <img src="https://emojis.slackmojis.com/emojis/images/1573850349/7131/pog.png?1573850349" width="17px"/> Ping me, Lets play some game in free time.
+
 </p>
 
 <br/>
@@ -103,7 +106,7 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 <br/>
 -->
 
-<br><br><br>
+<br><br><br/>
 
 <table>
   <tr>
@@ -122,7 +125,8 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
 
 <br><br><br>
 
-<hr>
+- - - -
+
 <p align="center"> <b>Support 🙏</b></p>
 
 <p align="center">
@@ -137,7 +141,7 @@ I'm an inquisitive thinker and a C++ & Java developer. I've commitments on other
   </a>
 </p>
 
-<hr>
+- - - - 
 <p align="center">
   <b>Developed with ❤️ </b><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30px"/>
 </p>
