@@ -10,9 +10,10 @@
 <br/>
 <h2 align="center"> <img src="https://awesome.re/badge.svg"/></h2>
 <h4 align="center">Hey, I'm Ravi Kanth</h4>
-<h4 align="center">I'm an inquisitive thinker, Learner, Overthinker and a Meme guy 🙋</h4>
-<h4 align="center">Filled with positivity & occupied with responsibilities 🙇</h4>
-<h4 align="center">Official Habits: Open Source, Competitive Programming, Communities and Games(PC/Mobile) <img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="17px"/></h4>
+<h4 align="center">I'm an inquisitive thinker, Learner and a Meme lover 🙋</h4>
+<h4 align="center">Learning & Exploring </h4>
+<h4 align="center">Filled with positivity, occupied with responsibilities 🙇</h4>
+<h4 align="center">Habits: Open Source, Competitive Programming, Communities and Games(PC/Mobile) <img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="17px"/></h4>
 
 <br/>
 
