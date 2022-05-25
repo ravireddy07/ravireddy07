@@ -9,11 +9,10 @@
 
 <br/>
 <h2 align="center"> <img src="https://awesome.re/badge.svg"/></h2>
-<h4 align="center">Hey, I'm Ravi Kanth, a Graduate in CSE.</h4>
-<h4 align="center">I'm an inquisitive thinker, Curious learner and Meme guy 🙋.</h4>
-<h4 align="center">Being an indian, getting into multiple tech-stacks is a childplay.</h4>
-<h4 align="center">Open Source, Competitive Programming, Communities and Gaming are always fun <img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="17px"/></h4> 
-<h4 align="center">Feel free to checkout the Repo's and connect with me on <a href="https://www.linkedin.com/in/ravireddy07/">LinkedIn</a> 👇 </h4>
+<h4 align="center">Hey, I'm Ravi Kanth</h4>
+<h4 align="center">I'm an inquisitive thinker, Learner, Overthinker and a Meme guy 🙋</h4>
+<h4 align="center">Filled with positivity & occupied with responsibilities 🙇</h4>
+<h4 align="center">Official Habits: Open Source, Competitive Programming, Communities and Games(PC/Mobile) <img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="17px"/></h4>
 
 <br/>
 
@@ -25,7 +24,7 @@
     <img align="center" alt="ravireddy07#3006" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/discord-round.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/ravi_reddy_07" target="blank">
-    <img align="center" alt="ravi_reddy_07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/twitter.svg"/> 
+    <img align="center" alt="ravi_reddy_07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/twitter.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ravireddy07" target="blank">
     <img align="center" alt="ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/linkedin.svg"/>
@@ -44,15 +43,17 @@
 
 -   📌 Open Source and Competitive Programming.
 
--   🔭 Learning Azure and some Automation.
+-   🔭 Currently, Mastering ReactJS and some doing Automation.
 
--   <img src="https://emojis.slackmojis.com/emojis/images/1573850349/7131/pog.png?1573850349" width="17px"/> Ping me, Lets play some game in free time.
+-   🤘 Feel free to Connect with me on <a href="https://www.linkedin.com/in/ravireddy07/">LinkedIn</a> 👇
+
+-   <img src="https://emojis.slackmojis.com/emojis/images/1573850349/7131/pog.png?1573850349" width="17px"/> Solo Battle Royal Player, Squard recruitment is open popular games.
 
 </p>
 
 <br/>
 
-<p align="center"> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravireddy07" alt="ravireddy07" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/ravireddy07?style=flat-square" alt="ravireddy07"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/ravireddy07?color=1DA1F2&logo=github&style=flat-square" alt="ravireddy07"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
