@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>&nbsp; Hi, Nice to seeing you here! <img src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/wave.gif" width="30px"></h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>&nbsp; Hi, Nice to seeing you here! <img src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/wave.gif" width="30"></h1>
 
 <br/>
 
@@ -13,7 +13,7 @@
 <h4 align="center">I'm an inquisitive thinker, Learner and a Meme lover 🙋</h4>
 <h4 align="center">Learning & Exploring </h4>
 <h4 align="center">Filled with positivity, occupied with responsibilities 🙇</h4>
-<h4 align="center">Habits: Open Source, Competitive Programming, Communities and Games(PC/Mobile) <img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="17px"/></h4>
+<h4 align="center">Habits: Open Source, Competitive Programming, Communities and Games(PC/Mobile) <img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="17"/></h4>
 
 <br/>
 
