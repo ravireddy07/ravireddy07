@@ -6,11 +6,11 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" height="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="80" height="90">
 </p>
-
 <br/>
 <h2 align="center"> <img src="https://awesome.re/badge.svg"/></h2>
 <h4 align="center">Hey, I'm Ravi Kanth</h4>
 <h4 align="center">I'm an inquisitive thinker, Learner and a Meme lover 🙋</h4>
+<h4 align="center">What makes me unique is that I basically taught myself to make decisions, stick to it and achieve.</h4>
 <h4 align="center">Learning & Exploring </h4>
 <h4 align="center">Filled with positivity, occupied with responsibilities 🙇</h4>
 <h4 align="center">Habits: Open Source, Competitive Programming, Communities and Games(PC/Mobile) <img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="17"/></h4>
