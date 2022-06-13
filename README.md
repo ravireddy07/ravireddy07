@@ -44,11 +44,11 @@
 
 -   📌 Open Source and Competitive Programming.
 
--   🔭 Currently, Mastering ReactJS and some doing Automation.
+-   🔭 Currently, Mastering React, Freelancing, and Automation.
 
--   🤘 Feel free to Connect with me on <a href="https://www.linkedin.com/in/ravireddy07/">LinkedIn</a> 👇
+-   🔀 Transforming from Option Buyer to Option Seller.
 
--   <img src="https://emojis.slackmojis.com/emojis/images/1573850349/7131/pog.png?1573850349" width="17px"/> Solo Battle Royal Player, Squard recruitment is open popular games.
+-   🤘 Feel free to connect on <a href="https://www.linkedin.com/in/ravireddy07/">LinkedIn</a> 👇
 
 </p>
 
