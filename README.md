@@ -13,7 +13,6 @@
 <h4 align="center">What makes me unique is that I basically taught myself to make decisions, stick to it and achieve.</h4>
 <h4 align="center">Learning & Exploring </h4>
 <h4 align="center">Filled with positivity, occupied with responsibilities 🙇</h4>
-<h4 align="center">Habits: Open Source, Competitive Programming, Communities and Games(PC/Mobile) <img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="17"/></h4>
 
 <br/>
 
@@ -42,7 +41,7 @@
 
 <p align="center">
 
--   📌 Open Source and Competitive Programming.
+-   📌 Open Source, Competitive Programming, Communities and Games(PC/Mobile) <img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="17"/>
 
 -   🔭 Currently, Mastering React, Freelancing, and Automation.
 
