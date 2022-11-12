@@ -41,13 +41,18 @@
 
 <p align="center">
 
--   📌 Open Source, Competitive Programming, Communities, Games(PC/Mobile)...etc<img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="17"/>
 
--   🔭 Currently, Grinding 🙇
 
--   🔀 Freelancing and Contracts.
+  
+-   🌊 I believe in Magic 
 
--   🤘 Feel free to connect on <a href="https://www.linkedin.com/in/ravireddy07/">LinkedIn</a> 👇
+-   📌 Open Source, Competitive Programming, Communities, Gaming...etc<img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="17"/>
+
+-   🔭 Grinding 🙇
+
+-   🔀 Freelancing/Contracts.
+
+-   🤘 Connect on <a href="https://www.linkedin.com/in/ravireddy07/">LinkedIn</a> 👇
 
 </p>
 
