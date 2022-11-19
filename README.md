@@ -6,7 +6,6 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" height="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="80" height="90">
 </p>
-<br/>
 <h2 align="center"> <img src="https://awesome.re/badge.svg"/></h2>
 <h4 align="center">Hey, I'm Ravi Kanth</h4>
 <h4 align="center">I'm an inquisitive thinker, Learner and a Meme lover 🙋</h4>
@@ -35,14 +34,10 @@
 </p>
 
 <!--https://simpleicons.org/?q=codechef-->
-<br/>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 <p align="center">
-
-
-
   
 -   🌊 I believe in Magic 
 
