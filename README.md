@@ -17,19 +17,19 @@
 
 <p align="center">
   <a href="mailto:ravikanthreddy8500@gmail.com" target="blank">
-    <img align="center" alt="Ravi's Email" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/gmail.svg"/>
+    <img align="center" alt="Harry's Email" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/gmail.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/uXY676UzZt" target="blank">
-    <img align="center" alt="ravireddy07#3006" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/discord-round.svg"/>
+    <img align="center" alt="Discord: ravireddy07#3006" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/discord-round.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/ravi_reddy_07" target="blank">
-    <img align="center" alt="ravi_reddy_07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/twitter.svg"/>
+    <img align="center" alt="Twitter: ravi_reddy_07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/twitter.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ravireddy07" target="blank">
-    <img align="center" alt="ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/linkedin.svg"/>
+    <img align="center" alt="LinkedIn: ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/linkedin.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@ravi_reddy_07" target="blank">
-    <img align="center" alt="@ravi_reddy_07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/medium.png"/>
+    <img align="center" alt="Medium: @ravi_reddy_07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/medium.png"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -57,9 +57,9 @@
   <img src="https://komarev.com/ghpvc/?username=ravireddy07" alt="ravireddy07" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/ravireddy07?style=flat-square" alt="ravireddy07"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/ravireddy07?color=1DA1F2&logo=github&style=flat-square" alt="ravireddy07"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cp-logo.vercel.app/codeforces/ravireddy07?logo=true" alt="ravireddy07"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cp-logo.vercel.app/codechef/ravireddy115?logo=true" alt="ravireddy115">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cp-logo.vercel.app/leetcode/ravireddy07?logo=true" alt="ravireddy07">
+  <img src="https://cp-logo.vercel.app/codeforces/ravireddy07?logo=true" alt="Codeforces: ravireddy07"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cp-logo.vercel.app/codechef/ravireddy115?logo=true" alt="Codechef: ravireddy115">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cp-logo.vercel.app/leetcode/ravireddy07?logo=true" alt="Leetcode: ravireddy07">
   <!--[![Badge](https://cp-logo.vercel.app/codechef/ravireddy115)](https://www.codechef.com/users/ravireddy115) -->
 </p>
 
