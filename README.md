@@ -17,19 +17,19 @@
 
 <p align="center">
   <a href="mailto:ravikanthreddy8500@gmail.com" target="blank">
-    <img align="center" alt="Harry's Email" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/gmail.svg"/>
+    <img align="center" alt="Harry's Email" width="30px" src="https://user-images.githubusercontent.com/26524467/206219421-f96cc7eb-92cd-40f8-8229-643ee67be75b.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/uXY676UzZt" target="blank">
-    <img align="center" alt="Discord: ravireddy07#3006" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/discord-round.svg"/>
+    <img align="center" alt="Discord: ravireddy07#3006" width="30px" src="https://user-images.githubusercontent.com/26524467/206219087-077698f9-94a2-4f1f-a7e5-5d61c1e6e8af.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/ravi_reddy_07" target="blank">
-    <img align="center" alt="Twitter: ravi_reddy_07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/twitter.svg"/>
+    <img align="center" alt="Twitter: ravi_reddy_07" width="30px" src="https://user-images.githubusercontent.com/26524467/206219771-efe76366-b580-4a1a-b0ff-efcae4722e0c.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ravireddy07" target="blank">
-    <img align="center" alt="LinkedIn: ravireddy07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/linkedin.svg"/>
+    <img align="center" alt="LinkedIn: ravireddy07" width="30px" src="https://user-images.githubusercontent.com/26524467/206219510-b20488fb-b2b1-4c77-afef-3758c4326570.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@ravi_reddy_07" target="blank">
-    <img align="center" alt="Medium: @ravi_reddy_07" width="30px" src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/assets/medium.png"/>
+    <img align="center" alt="Medium: @ravi_reddy_07" width="30px" src="https://user-images.githubusercontent.com/26524467/206219665-4b2bd8bb-e1fa-4cd3-8aa1-abd0d54d3315.png"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
