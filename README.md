@@ -8,10 +8,9 @@
 </p>
 <h2 align="center"> <img src="https://awesome.re/badge.svg"/></h2>
 <h4 align="center">Hey, I'm Ravi Kanth</h4>
-<h4 align="center">I'm an inquisitive thinker, Learner and a Meme lover 🙋</h4>
-<h4 align="center">Honestly, I'm an Introvert until your vibe matches 😜</h4>
-<!-- <h4 align="center">What makes me unique is that I basically taught myself to make decisions, stick to it and achieve.</h4> -->
-<h4 align="center">Learning & Exploring </h4>
+<h4 align="center">I'm an inquisitive thinker, Learner and lot more 🙋</h4>
+<h4 align="center">Actually, I'm an Introvert until your vibe matches 😜</h4>
+<h4 align="center">Always Learning & Exploring </h4>
 <h4 align="center">Filled with positivity, occupied with responsibilities 🙇</h4>
 
 <br/>
