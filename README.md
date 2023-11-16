@@ -9,9 +9,9 @@
 <h2 align="center"> <img src="https://awesome.re/badge.svg"/></h2>
 <h4 align="center">Hey, I'm Ravi Kanth</h4>
 <h4 align="center">I'm an inquisitive thinker, Learner and lot more 🙋</h4>
-<h4 align="center">Actually, I'm an Introvert until your vibe matches 😜</h4>
-<h4 align="center">Always Learning & Exploring </h4>
-<h4 align="center">Filled with positivity, occupied with responsibilities 🙇</h4>
+<h4 align="center">Introvert until your vibe matches 😜</h4>
+<h4 align="center">Cultivating a habit of continuous learning and exploration</h4>
+<h4 align="center">Filled with positivity, kindness & occupied with responsibilities 🙇</h4>
 
 <br/>
 
