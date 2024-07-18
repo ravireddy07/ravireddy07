@@ -39,7 +39,7 @@
 
 <p align="center">
   
--   🌊 I believe in Magic 
+-   🌊 I believe to move on until we find our purpose.
 
 -   📌 Open Source, Competitive Programming, Communities, Gaming...etc<img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="17"/>
 
