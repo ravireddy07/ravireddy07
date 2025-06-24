@@ -34,23 +34,6 @@
 </p>
 
 <!--https://simpleicons.org/?q=codechef-->
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
-<p align="center">
-  
--   🌊 I believe to move on until we find our purpose.
-
--   📌 Open Source, Competitive Programming, Communities, Gaming...etc<img src="https://emojis.slackmojis.com/emojis/images/1488512507/1804/aaw_yeah.gif?1488512507" width="17"/>
-
--   🔭 Grinding 🙇
-
--   🔀 Freelancing/Contracts.
-
--   🤘 Connect on <a href="https://www.linkedin.com/in/ravireddy07/">LinkedIn</a> 👇
-
-</p>
-
 <br/>
 
 <p align="center">
@@ -62,8 +45,34 @@
   <img src="https://cp-logo.vercel.app/leetcode/ravireddy07?logo=true" alt="Leetcode: ravireddy07">
   <!--[![Badge](https://cp-logo.vercel.app/codechef/ravireddy115)](https://www.codechef.com/users/ravireddy115) -->
 </p>
-
 <br/>
+<div align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cultofthepartyparrot.com/parrots/hd/quadparrot.gif" width="25" height="25"/>&nbsp;&nbsp;&nbsp;
+</div>
+
 <br/>
 
 <h2><b>🛠 Languages and Tools I use </b></h2>
@@ -100,15 +109,15 @@
   </abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<!--
+
 <br/>
 
 <p><img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravireddy07&layout=compact&hide=html" alt="ravireddy07" /></p>
 <p>&nbsp;<img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=ravireddy07&show_icons=true&theme=merko" alt="ravireddy07" /></p>
 
 <br/>
--->
 
+<!--
 <br><br><br/>
 
 <table>
@@ -127,6 +136,7 @@
 </table>
 
 <br><br><br>
+-->
 
 ---
 
@@ -134,13 +144,13 @@
 
 <p align="center">
   <a href="https://www.paypal.me/ravireddy07">
-    <img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
+    <img height="35" width="150" src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href='https://ko-fi.com/ravireddy07' target='_blank'>
-    <img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for Ravi Kanth'/>
+    <img height='35' width="150" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for Ravi Kanth'/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.buymeacoffee.com/ravireddy07" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px"/>
+    <img height="35" width="150" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="border-radius:2px"/>
   </a>
 </p>
 
