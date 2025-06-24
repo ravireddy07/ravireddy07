@@ -6,12 +6,22 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" height="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="80" height="90">
 </p>
+
+<h2 align="center"> <img src="https://awesome.re/badge.svg"/></h2>
+<h4 align="center"> 🎓 Google India Scholar | Competitive Programmer | Open Source Contributor </h4>
+<h4 align="center"> 💻 Skilled in React, Java, TypeScript, Appium & other Test Automation frameworks, and Full-Stack Development </h4>
+<h4 align="center"> 🚀 Passionate about building deep learning projects, Freelancing and robust industry level test automation frameworks from scratch </h4>
+<h4 align="center"> 🙇 Filled with positivity, kindness & occupied with responsibilities </h4>
+  
+
+<!--
 <h2 align="center"> <img src="https://awesome.re/badge.svg"/></h2>
 <h4 align="center">Hey, I'm Ravi Kanth</h4>
-<h4 align="center">I'm an inquisitive thinker, Learner and lot more 🙋</h4>
+<h4 align="center">Inquisitive thinker, Learner and lot more 🙋</h4>
 <h4 align="center">Introvert until your vibe matches 😜</h4>
 <h4 align="center">Cultivating a habit of continuous learning and exploration</h4>
-<h4 align="center">Filled with positivity, kindness & occupied with responsibilities 🙇</h4>
+<h4 align="center"></h4>
+-->
 
 <br/>
 
