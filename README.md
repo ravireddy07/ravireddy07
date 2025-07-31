@@ -8,9 +8,9 @@
 </p>
 
 <h2 align="center"> <img src="https://awesome.re/badge.svg"/></h2>
-<h4 align="center"> 🎓 Google India Scholar | Competitive Programmer | Open Source Contributor </h4>
-<h4 align="center"> 💻 Skilled in React, Java, TypeScript, Appium & other Test Automation frameworks, and Full-Stack Development </h4>
-<h4 align="center"> 🚀 Passionate about building deep learning projects, Freelancing and robust industry level test automation frameworks from scratch </h4>
+<h4 align="center"> 🎓 Google India Scholar | Open Source Contributor </h4>
+<h4 align="center"> 💻 Skilled in Front End, TypeScript, Java, Mobile/Web Test Automation Frameworks, and Full-Stack Development </h4>
+<h4 align="center"> 🚀 Passionate about building AI models, Freelancing and Problem solving </h4>
 <h4 align="center"> 🙇 Filled with positivity, kindness & occupied with responsibilities </h4>
   
 
