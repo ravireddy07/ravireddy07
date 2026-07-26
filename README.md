@@ -9,7 +9,7 @@
 
 <h2 align="center"> <img src="https://awesome.re/badge.svg"/></h2>
 <h4 align="center"> 🎓 Google India Scholar | Open Source Contributor </h4>
-<h4 align="center"> 💻 Skilled in Front End, TypeScript, Java, Mobile/Web Test Automation Frameworks, and Full-Stack Development </h4>
+<h4 align="center"> 💻 Skilled in Front End, TypeScript, Java, Agentic Driven Testing & Mobile/Web Test Automation Frameworks </h4>
 <h4 align="center"> 🚀 Passionate about building AI models, Freelancing and Problem solving </h4>
 <h4 align="center"> 🙇 Filled with positivity, kindness & occupied with responsibilities </h4>
   
@@ -85,6 +85,30 @@
 
 <br/>
 
+<!-- 
+<p><img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravireddy07&layout=compact&hide=html" alt="ravireddy07" /></p>
+<p>&nbsp;<img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=ravireddy07&show_icons=true&theme=merko" alt="ravireddy07" /></p>
+-->
+
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=26524467" target="_blank">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=26524467&image_size=auto&color_scheme=dark"
+        width="771"
+      >
+      <img
+        alt="Dashboard stats of @ravireddy07"
+        src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=26524467&image_size=auto&color_scheme=light"
+        width="771"
+      >
+    </picture>
+  </a>
+</div>
+
+<br/>
+
 <h2><b>🛠 Languages and Tools I use </b></h2>
 
 <br/>
@@ -118,24 +142,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-
-<br/>
-
-<!-- 
-<p><img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravireddy07&layout=compact&hide=html" alt="ravireddy07" /></p>
-<p>&nbsp;<img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=ravireddy07&show_icons=true&theme=merko" alt="ravireddy07" /></p>
--->
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=26524467" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=26524467&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @ravireddy07" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=26524467&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <br/>
 
