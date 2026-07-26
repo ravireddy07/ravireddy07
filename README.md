@@ -126,13 +126,16 @@
 <p><img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravireddy07&layout=compact&hide=html" alt="ravireddy07" /></p>
 <p>&nbsp;<img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=ravireddy07&show_icons=true&theme=merko" alt="ravireddy07" /></p>
 -->
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=26524467" target="_blank"
-style="display: block" align="center">
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=26524467" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=26524467&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @ravireddy07" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=26524467&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <br/>
 
